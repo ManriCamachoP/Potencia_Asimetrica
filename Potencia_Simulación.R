@@ -42,7 +42,6 @@ simulacion.completa = function(n.ast =
   pruebas = c("Shapiro-Wilks","Jarque-Bera","KS-Lilliefors")
   
   for (k in 1:length(n.ast)){ 
-    permitir correr a traves de todas las n
     
     mu = mu_fijo 
     
